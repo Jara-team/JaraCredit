@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jara.iml" filepath="$PROJECT_DIR$/jara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jara-common-utils/jara-common-utils.iml" filepath="$PROJECT_DIR$/jara-common-utils/jara-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jara-crawler/jara-crawler.iml" filepath="$PROJECT_DIR$/jara-crawler/jara-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jara-data/jara-data.iml" filepath="$PROJECT_DIR$/jara-data/jara-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jara-gateway/jara-gateway.iml" filepath="$PROJECT_DIR$/jara-gateway/jara-gateway.iml" />
+    </modules>
+  </component>
+</project>

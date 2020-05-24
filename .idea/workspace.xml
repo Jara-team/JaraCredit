@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="005108dc-ead1-4102-bd58-6a507888bd4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-common-utils/jara-common-utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-common-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-crawler/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-gateway/jara-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara-gateway/src/main/java/backend/MainGateWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cLUWY9Uhqxi0cqQPL0AwOZRZyC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005108dc-ead1-4102-bd58-6a507888bd4d" name="Default Changelist" comment="" />
+      <created>1590307399337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590307399337</updated>
+      <workItem from="1590307400964" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="106" key="#Project_Structure" timestamp="1590307856413">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="320" y="106" key="#Project_Structure/0.23.1440.835@0.23.1440.835" timestamp="1590307856413" />
+    <state x="263" y="144" key="CommitChangelistDialog2" timestamp="1590307947935">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="263" y="144" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1590307947935" />
+    <state x="144" y="95" key="DiffContextDialog" timestamp="1590307934673">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="144" y="95" key="DiffContextDialog/0.23.1440.835@0.23.1440.835" timestamp="1590307934673" />
+    <state x="208" y="23" width="1024" height="835" key="SettingsEditor" timestamp="1590307442856">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="208" y="23" width="1024" height="835" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1590307442856" />
+    <state x="97" y="138" key="new project wizard" timestamp="1590307834480">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="97" y="138" key="new project wizard/0.23.1440.835@0.23.1440.835" timestamp="1590307834480" />
+  </component>
+</project>
